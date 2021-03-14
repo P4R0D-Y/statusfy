@@ -77,4 +77,9 @@
       "pre-commit": "yarn run lint"
     }
   }
+  {
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  }
+}
 }
